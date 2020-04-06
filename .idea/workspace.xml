@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed2aee3b-83fa-43a4-986e-3b2617edfc94" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aAOJhOiYtCP1Ex6jQ53oqlfWqO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Magia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.upc.eetac.dsa.Magia" />
+      <module name="I18nManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.upc.eetac.dsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.upc.eetac.dsa.Magia" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Magia" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed2aee3b-83fa-43a4-986e-3b2617edfc94" name="Default Changelist" comment="" />
+      <created>1586174862500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586174862500</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586178193941">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="184" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.800@0.23.1440.800" timestamp="1586178193941" />
+    <state x="457" y="214" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586178192470">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="457" y="214" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.800@0.23.1440.800" timestamp="1586178192470" />
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1586178513175">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1586178513175" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center" timestamp="1586178513175">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1586178513175" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left" timestamp="1586178513174">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1586178513174" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right" timestamp="1586178513175">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1586178513175" />
+    <state x="426" y="36" key="refactoring.ChangeSignatureDialog" timestamp="1586177054446">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="426" y="36" key="refactoring.ChangeSignatureDialog/0.23.1440.800@0.23.1440.800" timestamp="1586177054446" />
+    <state x="385" y="147" width="670" height="676" key="search.everywhere.popup" timestamp="1586175498575">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="385" y="147" width="670" height="676" key="search.everywhere.popup/0.23.1440.800@0.23.1440.800" timestamp="1586175498575" />
+  </component>
+</project>
