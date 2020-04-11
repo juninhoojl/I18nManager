@@ -7,6 +7,11 @@ public class User {
     private String name;
     private String surname;
 
+
+    public User(){
+
+    }
+
     public User(String name, String surname){
 
         this.setName(name);

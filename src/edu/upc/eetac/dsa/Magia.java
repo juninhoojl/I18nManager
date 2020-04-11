@@ -45,7 +45,7 @@ public class Magia{
 
             System.out.println("=[getName]==========================");
             Method m2 = c.getDeclaredMethod("setName", String.class);
-            m.invoke(user2, "Pepito");
+            m2.invoke(user2, "Pepito");
             System.out.println(user2);
 
         }catch (Exception e){

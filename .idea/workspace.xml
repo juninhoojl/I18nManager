@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed2aee3b-83fa-43a4-986e-3b2617edfc94" name="Default Changelist" comment="" />
+    <list default="true" id="ed2aee3b-83fa-43a4-986e-3b2617edfc94" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/I18nManager/edu/upc/eetac/dsa/Magia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/I18nManager/edu/upc/eetac/dsa/Magia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/I18nManager/edu/upc/eetac/dsa/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/I18nManager/edu/upc/eetac/dsa/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/upc/eetac/dsa/Magia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/upc/eetac/dsa/Magia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/upc/eetac/dsa/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/upc/eetac/dsa/model/User.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aAOJhOiYtCP1Ex6jQ53oqlfWqO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Magia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -71,22 +82,22 @@
       <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state x="457" y="214" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.800@0.23.1440.800" timestamp="1586178192470" />
-    <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1586178513175">
+    <state width="1398" height="334" key="GridCell.Tab.0.bottom" timestamp="1586213567982">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1586178513175" />
-    <state width="1398" height="205" key="GridCell.Tab.0.center" timestamp="1586178513175">
+    <state width="1398" height="334" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1586213567982" />
+    <state width="1398" height="334" key="GridCell.Tab.0.center" timestamp="1586213567978">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1586178513175" />
-    <state width="1398" height="205" key="GridCell.Tab.0.left" timestamp="1586178513174">
+    <state width="1398" height="334" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1586213567978" />
+    <state width="1398" height="334" key="GridCell.Tab.0.left" timestamp="1586213567977">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1586178513174" />
-    <state width="1398" height="205" key="GridCell.Tab.0.right" timestamp="1586178513175">
+    <state width="1398" height="334" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1586213567977" />
+    <state width="1398" height="334" key="GridCell.Tab.0.right" timestamp="1586213567979">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1586178513175" />
+    <state width="1398" height="334" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1586213567979" />
     <state x="426" y="36" key="refactoring.ChangeSignatureDialog" timestamp="1586177054446">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
