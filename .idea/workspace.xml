@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed2aee3b-83fa-43a4-986e-3b2617edfc94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ca.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/edu/upc/eetac/dsa/I18NManager1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/edu/upc/eetac/dsa/I18NManager2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/edu/upc/eetac/dsa/ca.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/edu/upc/eetac/dsa/en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/edu/upc/eetac/dsa/es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/edu/upc/eetac/dsa/pt.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/I18nManager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/I18nManager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/I18nManager/edu/upc/eetac/dsa/Magia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/I18nManager/edu/upc/eetac/dsa/Magia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/upc/eetac/dsa/I18NManager1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/upc/eetac/dsa/Magia.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/edu/upc/eetac/dsa/Magia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/upc/eetac/dsa/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/edu/upc/eetac/dsa/model/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +39,44 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Properties" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.I18NManager1">
+    <configuration name="I18NManager1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.upc.eetac.dsa.I18NManager1" />
+      <module name="I18nManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.upc.eetac.dsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="I18NManager2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.upc.eetac.dsa.I18NManager2" />
+      <module name="I18nManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.upc.eetac.dsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Magia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.upc.eetac.dsa.Magia" />
       <module name="I18nManager" />
@@ -57,6 +98,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.I18NManager1" />
+        <item itemvalue="Application.I18NManager2" />
         <item itemvalue="Application.Magia" />
       </list>
     </recent_temporary>
@@ -75,10 +118,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="88" width="811" height="669" key="#Project_Structure" timestamp="1586953199945">
+    <state x="320" y="88" width="811" height="669" key="#Project_Structure" timestamp="1586971285462">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state x="320" y="88" width="811" height="669" key="#Project_Structure/0.23.1440.800@0.23.1440.800" timestamp="1586953199945" />
+    <state x="320" y="88" width="811" height="669" key="#Project_Structure/0.23.1440.800@0.23.1440.800" timestamp="1586971285462" />
     <state x="184" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586178193941">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
@@ -87,33 +130,53 @@
       <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state x="457" y="214" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.800@0.23.1440.800" timestamp="1586178192470" />
-    <state width="1398" height="334" key="GridCell.Tab.0.bottom" timestamp="1586948814251">
+    <state width="1398" height="334" key="GridCell.Tab.0.bottom" timestamp="1586972706721">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1398" height="334" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1586948814251" />
-    <state width="1398" height="334" key="GridCell.Tab.0.center" timestamp="1586948814250">
+    <state width="1398" height="334" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1586972706721" />
+    <state width="1398" height="334" key="GridCell.Tab.0.center" timestamp="1586972706720">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1398" height="334" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1586948814250" />
-    <state width="1398" height="334" key="GridCell.Tab.0.left" timestamp="1586948814249">
+    <state width="1398" height="334" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1586972706720" />
+    <state width="1398" height="334" key="GridCell.Tab.0.left" timestamp="1586972706720">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1398" height="334" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1586948814249" />
-    <state width="1398" height="334" key="GridCell.Tab.0.right" timestamp="1586948814250">
+    <state width="1398" height="334" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1586972706720" />
+    <state width="1398" height="334" key="GridCell.Tab.0.right" timestamp="1586972706721">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1398" height="334" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1586948814250" />
-    <state x="97" y="120" key="new project wizard" timestamp="1586953695229">
+    <state width="1398" height="334" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1586972706721" />
+    <state width="1398" height="254" key="GridCell.Tab.1.bottom" timestamp="1586970732508">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state x="97" y="120" key="new project wizard/0.23.1440.800@0.23.1440.800" timestamp="1586953695229" />
+    <state width="1398" height="254" key="GridCell.Tab.1.bottom/0.23.1440.800@0.23.1440.800" timestamp="1586970732508" />
+    <state width="1398" height="254" key="GridCell.Tab.1.center" timestamp="1586970732507">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.1.center/0.23.1440.800@0.23.1440.800" timestamp="1586970732507" />
+    <state width="1398" height="254" key="GridCell.Tab.1.left" timestamp="1586970732507">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.1.left/0.23.1440.800@0.23.1440.800" timestamp="1586970732507" />
+    <state width="1398" height="254" key="GridCell.Tab.1.right" timestamp="1586970732508">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.1.right/0.23.1440.800@0.23.1440.800" timestamp="1586970732508" />
+    <state x="97" y="120" key="new project wizard" timestamp="1586971252513">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="97" y="120" key="new project wizard/0.23.1440.800@0.23.1440.800" timestamp="1586971252513" />
     <state x="426" y="36" key="refactoring.ChangeSignatureDialog" timestamp="1586177054446">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state x="426" y="36" key="refactoring.ChangeSignatureDialog/0.23.1440.800@0.23.1440.800" timestamp="1586177054446" />
-    <state x="385" y="147" width="670" height="676" key="search.everywhere.popup" timestamp="1586175498575">
+    <state x="320" y="89" key="scopes" timestamp="1586970996887">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state x="385" y="147" width="670" height="676" key="search.everywhere.popup/0.23.1440.800@0.23.1440.800" timestamp="1586175498575" />
+    <state x="320" y="89" key="scopes/0.23.1440.800@0.23.1440.800" timestamp="1586970996887" />
+    <state x="385" y="147" width="670" height="676" key="search.everywhere.popup" timestamp="1586954034605">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="385" y="147" width="670" height="676" key="search.everywhere.popup/0.23.1440.800@0.23.1440.800" timestamp="1586954034605" />
   </component>
 </project>
