@@ -18,8 +18,11 @@ public class Magia{
         System.out.println("====================================");
 
         try{
-
+            // o c eh uma entidade classe que realmente representa a classe
             Class c = Class.forName("edu.upc.eetac.dsa.model.User");
+            // user2 eh uma instancia
+            // sobre qualquer instancia podemos perguntar sobre sua classe
+            // como por exemplo: c.getClass()
             User user2 = (User) c.newInstance();
             user2.setName("Pepe");
             user2.setSurname("Gotera");
@@ -38,6 +41,9 @@ public class Magia{
             }
 
             System.out.println("=[getName]==========================");
+            // De todos os metodos declarados localiza o que chama getname
+            // c eh a classe, por meio do carregador de classe acima obtivemos a classe User
+            // Pegamos o metodo dessa classe que chama getname e nao tem nenhum parametro
             Method m = c.getDeclaredMethod("getName", null);
             String result = (String) m.invoke(user2, null);
             System.out.println(result);
