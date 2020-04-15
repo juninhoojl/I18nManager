@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed2aee3b-83fa-43a4-986e-3b2617edfc94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/edu/upc/eetac/dsa/I18NManager1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/upc/eetac/dsa/Magia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/upc/eetac/dsa/Magia.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +103,10 @@
       <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state width="1398" height="334" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1586948814250" />
+    <state x="97" y="120" key="new project wizard" timestamp="1586953695229">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="97" y="120" key="new project wizard/0.23.1440.800@0.23.1440.800" timestamp="1586953695229" />
     <state x="426" y="36" key="refactoring.ChangeSignatureDialog" timestamp="1586177054446">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
