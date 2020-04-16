@@ -5,7 +5,7 @@ import java.util.ResourceBundle;
 public class I18NManager1 {
 
     private static I18NManager1 instance;
-    private ResourceBundle ca, es, en;
+    private ResourceBundle ca, es, en, pt;
 
     private static final String PACKAGE = "edu.upc.eetac.dsa";
 
@@ -15,7 +15,7 @@ public class I18NManager1 {
         this.es = ResourceBundle.getBundle(PACKAGE+".es");
         this.ca = ResourceBundle.getBundle(PACKAGE+".en");
         this.en = ResourceBundle.getBundle(PACKAGE+".ca");
-        this.en = ResourceBundle.getBundle(PACKAGE+".pt");
+        this.pt = ResourceBundle.getBundle(PACKAGE+".pt");
 
     }
 
